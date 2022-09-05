@@ -61,4 +61,4 @@ buck-out/
 /vendor/bundle/
 
 #config
-/[Cc]onfig/
+/app/config/
