@@ -61,4 +61,4 @@ buck-out/
 /vendor/bundle/
 
 #config
-*.config.js
+/config/
